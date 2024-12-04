@@ -1,0 +1,3 @@
+* vedere perché sito generato in public non funziona
+   * sicuro un problema con quel figlio di puttana di hugo e come gestisce i cazzo di link relativi
+   * aggiungo che il sito generato ha link del tipo '/contacts' o '/director-and-staff' e ovviamente rimandano a pagine che non esistono
