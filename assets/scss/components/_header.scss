@@ -1,0 +1,26 @@
+.header {
+  color: $primary;
+  background-color: #C96480; // colore sfondo navbar
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 2px 15px rgba(50, 50, 93, 0.5);
+  height: 60px;
+  .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  &.header-absolute {
+    position: absolute;
+    z-index: 100;
+    width: 100%;
+  }
+}
+// .lock-scroll {
+//   .header {
+//     &.header-absolute {
+//       position: static;
+//     }
+//   }
+// }

@@ -1,0 +1,59 @@
+---
+title: "2022"
+date: 2023-05-26T11:43:22+02:00
+draft: false
+url: /director-and-staff/scientific-committee/2022
+heroHeading: "20th Scientific Committee"
+heroSubHeading: 'January 30th, 2023'
+# background: lello
+---
+
+link:http://www.icranet.org/report2022/VolumeCV2022.pdf[*++Staff, Visiting Scientists and Graduate Students 2022++*, window="_blank"] +
+link:http://www.icranet.org/report2022/agendaSC2022.pdf[*Agenda*, window="_blank"] +
+link:http://www.icranet.org/report2022/minutesSC2022.pdf[*Minutes*, window="_blank"]
+
+// I'll leave these commented just in case we ever switch back to markdown for any reason
+// <a href="http://www.icranet.org/report2022/VolumeCV2022.pdf" target="_blank">**Staff, Visiting Scientists and Graduate Students 2022**</a>\
+// <a href="http://www.icranet.org/report2022/agendaSC2022.pdf" target="_blank">**Agenda**</a>\
+// <a href="http://www.icranet.org/report2022/minutesSC2022.pdf" target="_blank">**Minutes**</a>
+
+// some empty lines:
+{sp} +
+{sp} +
+{sp} +
+
+
+[.text-center]
+==== ICRANet
+[.text-center]
+= The 2022 Scientific Report
+[.text-center]
+====== Presented to
+[.text-center]
+== The Scientific Committee
+[.text-center]
+====== by
+[.text-center]
+==== Remo Ruffini, Director of ICRANet
+{sp} +
+
+'''
+[.text-justify]
+In 1985 George Coyne, Francis Everitt, Fang Li-Zhi, Riccardo Giacconi (Nobel laureate 2002), Remo Ruffini, Abdus Salam (Nobel laureate 1979), promoted the establishment of the International Centre for Relativistic Astrophysics (ICRA), asking the Rector of the University of Rome "La Sapienza" Antonio Ruberti to host the Centre at the Physics Department. ICRA became legal entity in 1991. A successful story of research followed for 30 years. ICRA was further extended to other Institutions, as it is clear from the current Statute (*see link:http://www.icranet.org/report2022/encl0.pdf[Enclosure 0, window="_blank"]*).
+
+image:http://www.icranet.org/report2021/images/report2_html_36908350652b3624.jpg[alt, height=300px]
+image:http://www.icranet.org/report2021/images/report2_html_65b15cf3001695a3.jpg[alt, height=300px]
+image:http://www.icranet.org/report2021/images/report2_html_b67942687e3a0e80.jpg[alt, height=300px]
+image:http://www.icranet.org/report2021/images/report2_html_2459ed1df795f985.png[alt, height=300px]
+image:http://www.icranet.org/report2021/images/report2_html_2506fed0dc4fac3e.jpg[alt, height=300px]
+image:http://www.icranet.org/report2021/images/report2_html_1352317d2fac2bd7.jpg[alt, height=300px]
+image:http://www.icranet.org/report2021/images/report2_html_5df6d110c4f5ada4.jpg[alt, height=300px]
+
+.Founders of ICRA. Above: George Coyne and Remo Ruffini in presence of His Holyness John Paul II; Francis Everitt; Fang Li-Zhi. Middle: Riccardo Giacconi receiving his Nobel prize in 2002; Riccardo Giacconi (right), with Hagen Kleinert (middle) and Remo Ruffini (left), in the basement of the ICRANet Centre in Pescara during his 6 years mandate as President of the ICRANet Scientific Committee from 2006 to 2012; Abdus Salam. Below: Antonio Ruberti and Remo Ruffini in Sapienza University on the occasion of the ICRA celebration of the 1986 passage of the Halley Comet held in presence of the President of the Republic of Italy.
+{sp} +
+
+[.text-justify]
+At the dawn of the new millennium it was approached the need to extend this activity, based on Italian national laws, to the International scenario. Thanks to the support and advise of the Italian Minister of Foreign Affairs, a Statute was drafted for creating a truly international organization to develop the field of relativistic astrophysics worldwide. ICRANet has been indeed created by a law of the Italian Government, ratified unanimously by the Italian Parliament and signed by the President of the Republic of Italy on February 10^th^ 2005. The Republic of Armenia, the Republic of Italy, the Vatican State, ICRA, the University of Arizona and the Stanford University have been the Founding Members. All of them have ratified the Statute of ICRANet.
+
+[.text-justify]
+Extensive Scientific reports have been presented every year to the Scientific Committee by the Director of ICRANet (see our link:http://www.icranet.org/AnnualReports[AnnualReports, window="_blank"]). The aim of this 2022 report is to review the traditional fields of research, upgrade the publication list and scientific results obtained in the meantime in the ICRANet Centers in Italy, Armenia, Iran, France (*see link:http://www.icranet.org/report2022/encl1.pdf[Enclosures 1, window="_blank"] - link:http://www.icranet.org/report2022/encl2.pdf[2, window="_blank"] - link:http://www.icranet.org/report2022/encl3.pdf[3, window="_blank"] - link:http://www.icranet.org/report2022/encl4.pdf[4, window="_blank"]*), report on the status of the requests of adhesion to ICRANet by Belarus and China (*see link:http://www.icranet.org/report2022/encl5.pdf[Enclosures 5, window="_blank"] - link:http://www.icranet.org/report2022/encl6.pdf[6, window="_blank"]*), indicate the composition of the Faculty, of the Administrative Staff, of the Lecturers, of the Students. The Curricula of the ICRANet Staff are given in the Accompanying Document __"The ICRANet Staff, Visiting Scientists and Graduate Students at the Pescara Center"__.

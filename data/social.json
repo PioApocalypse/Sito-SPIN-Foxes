@@ -1,0 +1,12 @@
+[
+    {
+        "name": "YouTube",
+        "link": "https://www.youtube.com/@icranet5462",
+        "image": "social/youtube.svg"
+    },
+    {
+        "name": "ICRA.it",
+        "link": "http://www.icra.it",
+        "image": "social/icra-mono.svg"
+    }
+]

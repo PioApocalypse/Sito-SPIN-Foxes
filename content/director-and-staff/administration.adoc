@@ -1,0 +1,25 @@
+---
+title: "Administration"
+date: 2023-05-25T16:22:13+02:00
+draft: false
+weight: 3
+summary: "Administrative staff, secretaries and system manager." # set this line to 0 to leave the summary blank with a 2-line space below the title; comment this line if you want to show a brief summary of the contents of this page
+heroHeading: 'Administration, Secretariat and System Management'
+heroSubHeading: ''
+heroBackground: 'staff/Wilson-Everitt-Ruffini-Damour.jpg'
+y_position: "top" # changes background-position-y: [ top | bottom | middle | 50% | 200px ... ]
+group: yes # to hide a page from the index (/director-and-staff/) comment this line
+thumbnail: '/images/today3.jpg'
+---
+
+== Administration
+* Dott.ssa Adamo, Cristina -> image:/symbols/home.png[height=18pt, link="https://www.icranet.org/index.php?option=com_content&task=view&id=315&Itemid=723"] image:/symbols/mail.png[height=18pt, link="mailto:cristina.adamo@icranet.org"]
+* Dott.ssa Latorre, Silvia -> image:/symbols/home.png[height=18pt, link="https://www.icranet.org/index.php?option=com_content&task=view&id=316&Itemid=723"] image:/symbols/mail.png[height=18pt, link="mailto:silvia.latorre@icranet.org"] image:/symbols/doc.png[height=18pt, link="https://www.icranet.org/images/stories/PersonalPages/cv/cv_latorre.pdf", window="_blank"]
+* Dott. Izzo, Aniello Francesco - expert administrative
+
+== Secretariat
+* Dott.ssa di Niccolo, Cinzia
+* Dott.ssa Natale, Elisabetta
+
+== System Management
+* Dott. D'Amico, Emanuele -> image:/symbols/home.png[height=18pt, link="damico"] image:/symbols/mail.png[height=18pt, link="mailto:emanuele.damico@icranet.org"]

@@ -1,0 +1,73 @@
+---
+title: "Faculty"
+date: 2023-05-25T11:22:21+02:00
+draft: false
+weight: 2
+summary: 'Our professors and research staff.'
+heroHeading: 'Faculty'
+heroSubHeading: 'Our professors and research staff'
+heroBackground: 'staff/Wilson-Everitt-Ruffini-Damour.jpg'
+y_position: "top" # changes background-position-y: [ top | bottom | middle | 50% | 200px ... ]
+group: yes # to hide a page from the index (/director-and-staff/) comment this line 
+thumbnail: 'http://www.icranet.org/images/stories/Research/collage.jpg'
+---
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. ^Excepteur{sp}sint^ occaecat cupidatat non proident, ~sunt{sp}in~ culpa qui officia deserunt mollit anim id est laborum.
+
+== Members
+
+[cols="1,2,2,1,1"]
+|===
+| | Name | Affiliation | Info | Pubblications
+
+a| image::http://www.icranet.org/images/stories/PersonalPages/Pics/belinski%20photo.jpg[belinski,150]
+| Belinski, Vladimir
+| ICRANet
+| CV
+| ADS
+
+a| image::http://www.icranet.org/images/stories/PersonalPages/Pics/bianco.png[bianco,150]
+| Bianco, Carlo Luciano
+| ICRANet and Università di Roma "Sapienza"
+| CV
+| ADS
+
+a| image::http://www.icranet.org/images/stories/PersonalPages/Pics/cherubini.jpg[cherubini,150]
+| Cherubini, Christian
+| ICRANet and Campus Biomedico, Italy
+| CV
+| ADS
+
+a| image::http://www.icranet.org/images/stories/PersonalPages/Pics/damour.jpg[damour,150]
+| Damour, Thibault
+| IHES, France
+| CV
+| ADS
+
+a| image::http://www.icranet.org/images/stories/PersonalPages/Pics/dellavalle.jpg[dellavalle,150]
+| Della Valle, Massimo
+| INAF-Napoli - Osservatorio Astronomico di Capodimonte, Italy
+| CV
+| ADS
+
+a| image::http://www.icranet.org/images/stories/PersonalPages/Pics/filippi.png[filippi,150]
+| Filippi, Simonetta
+| ICRANet and Campus Biomedico, Italy
+| CV
+| ADS
+
+a| image::http://www.icranet.org/images/stories/PersonalPages/Pics/giommi.jpg[giommi,150]
+| Giommi, Paolo
+| ASI Science Data Centre, Italy
+| CV
+| ADS
+
+
+// | Foto | **Bianco, Carlo Luciano** (ICRANet and Università di Roma "Sapienza")                    | CV |
+// | Foto | **Cherubini, Christian**  (ICRANet and Campus Biomedico, Italy)                          | CV |
+// | Foto | **Damour, Thibault** (IHES, France)                                                      | CV |
+// | Foto | **Della Valle, Massimo** (INAF-Napoli - Osservatorio Astronomico di Capodimonte, Italy)  | CV |
+// | Foto | **Filippi, Simonetta** (ICRANet and Campus Biomedico, Italy)                             | CV |
+// | Foto | **Giommmi, Paolo** (ASI Science Data Centre, Italy)                                      | CV |
+//
+// ![ruffini](http://www.icranet.org/images/stories/ICRANet/Administration/director_logo_small.jpg)

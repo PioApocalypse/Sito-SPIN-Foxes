@@ -1,0 +1,31 @@
+email: 'secretariat@spin.it'
+pec: 'prova@pec.it' # non esisteva una funzione pec - aggiunta in contact.html sotto $TEMA/layouts
+phone: '+39 081 666 scemo'
+fax: '+39 081 69420' # non esisteva una funzione fax
+businessName: 'ICRANet'
+address: |
+  Complesso di Monte S. Angelo,
+  via Vicinale Cupa Cintia, 26,
+  80126 Napoli NA
+hours:
+  - day: Monday
+    open: 10:00am
+    close: 4:00pm
+  - day: Tuesday
+    open: 10:00am
+    close: 4:00pm
+  - day: Wednesday
+    open: 10:00am
+    close: 4:00pm
+  - day: Thursday
+    open: 10:00am
+    close: 4:00pm
+  - day: Friday
+    open: 10:00am
+    close: 4:00pm
+  - day: Saturday
+    open: Closed
+    close:
+  - day: Sunday
+    open: Closed
+    close:

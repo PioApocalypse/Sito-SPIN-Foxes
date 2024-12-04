@@ -1,0 +1,22 @@
+I colori del sito possono essere modificati a mano nei vari file.
+$primary, $secondary, $black e $white sono variabili che si applicano a tutti gli elementi della sottocartella /assets/scss/ della cartella del tema, si trovano nel file _bootstrap-variables.scss e modificarli comporta cambiare i colori del 90% del sito. Ovviamente 90% non significa 100%.
+
+Altri colori di testo, sfondi e quant'altro possono essere presenti direttamente nei singoli file html/css, quindi attenzione. Su Pulsar la ricerca sull'intero project tree si fa con CTRL+SHIFT+F, inserire l'hash del colore che si desidera cambiare e vedere quel colore dove è scritto.
+
+=== I colori più importanti usati sul sito sono: ===
+// https://coolors.co/084887-c96480-b47978-2f9c95-f7f5fb
+// #084887 come blu - primario
+// #2F9C95 come verde - secondario
+// #F7F5FB bianco, #C96480 blush e #B47978 rosa come ausiliari
+'./assets/scss/bootstrap-variables.scss'
+
+Il colore della menu bar è altrettanto importante e si imposta in:
+'./assets/scss/components/_header.scss'
+
+//  #1c3ed3 deafult primary del tema Hero
+//  #6f63ad personal favorite come primary
+//  #5000a0 testo viola in giro per il sito
+      usato nelle pagine history
+      ETC ETC...
+
+I colori globali li metto in config.toml sotto la classe [params.colors] e possono essere richiamati nei file html come {{ .Site.Params.colors.nome_colore }}. Fare attenzione quando si tocca il file config.

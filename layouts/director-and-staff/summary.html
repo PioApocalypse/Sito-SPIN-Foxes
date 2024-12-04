@@ -1,0 +1,23 @@
+<div class="work work-summary">
+  {{ if .Params.thumbnail }}
+  <div class="work-image portrait-container">
+    <a href="{{ .RelPermalink }}"><img src="{{ .Params.thumbnail | relURL }}" class="portrait"/></a>
+  </div>
+  {{ end }}
+  <div class="work-content" style="width:100%;">
+    <h2 class="work-title">
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </h2>
+    {{ if .Params.summary }}
+      <div style="width:100%; height:100%">
+        {{ if eq .Params.summary "0" }}
+          
+          {{ else }}
+          {{ .Params.summary }}
+        {{ end }}
+      </div>
+      {{ else }}
+      {{ .Content | truncate 120 "..." | plainify }}
+    {{ end }}
+  </div>
+</div>

@@ -1,0 +1,35 @@
+---
+title: "Steering Committee"
+date: 2023-05-26T10:37:21+02:00
+draft: false
+weight: 3
+summary: "0" # set this line to 0 to leave the summary blank with a 2-line space below the title; comment this line if you want to show a brief summary of the contents of this page
+heroHeading: 'Steering Committee (Board)'
+heroSubHeading: ''
+heroBackground: 'staff/Wilson-Everitt-Ruffini-Damour.jpg'
+y_position: "top" # changes background-position-y: [ top | bottom | middle | 50% | 200px ... ]
+group: yes # to hide a page from the index (/director-and-staff/) comment this line
+thumbnail: 'http://www.icranet.org/images/stories/ICRANet/steering14.jpg'
+---
+
+== Members (2023)
+* Albania: Prof. Dr. Elida Bylyku -> image:/symbols/mail.png[height=18pt, link="mailto:elidabylyku@gmail.com"]
+* Armenia: Dr. Nouneh Zastoukhova -> image:/symbols/mail.png[height=18pt, link="mailto:n.zastoukhova@mfa.am"]
+* ICRA: Prof. Remo Ruffini -> image:/symbols/home.png[height=18pt, link="http://www.icra.it/People/Ruffini.htm"] image:/symbols/mail.png[height=18pt, link="mailto:ruffini@icra.it"]
+* Italy:
+
+** Italian Foreign Ministry, Unità Scientifica e Tecnologica Bilaterale e Multilaterale: +
+Amb. Lorenzo Angeloni -> image:/symbols/mail.png[height=18pt, link="mailto:enzo.angeloni@esteri.it"] | Cons. Alessandro Garbellini -> image:/symbols/mail.png[height=18pt, link="mailto:alessandro.garbellini@esteri.it"]
+** Ministry of Economy and Finance, Ragioneria Generale dello Stato, IGAE, Uff. IX: +
+Dr. Antonio Bartolini -> image:/symbols/mail.png[height=18pt, link="mailto:antonio.bartolini@mef.gov.it"] | Dr. Salvatore Sebastiano Vizzini -> image:/symbols/mail.png[height=18pt, link="mailto:salvatoresebastiano.vizzini@mef.gov.it"]
+** MIUR: +
+Dr. Vincenzo Di Felice -> image:/symbols/mail.png[height=18pt, link="mailto:vincenzo.difelice@miur.it"] | Dott.ssa Giulietta Iorio -> image:/symbols/mail.png[height=18pt, link="mailto:giulietta.iorio@miur.it"]
+** Pescara Municipality: +
+Avv. Carlo Masci -> image:/symbols/mail.png[height=18pt, link="mailto:sindaco@comune.pescara.it"]
+
+* Stanford University: Prof. C. W. Francis Everitt -> image:/symbols/home.png[height=18pt, link="https://stanfordwho.stanford.edu/lookup?search=c%20w%20f%20everitt&submit=Search"] image:/symbols/mail.png[height=18pt, link="mailto:francis@relgyro.stanford.edu"]
+* University of Arizona: Prof. Xiaohui Fan -> image:/symbols/home.png[height=18pt, link="http://sancerre.as.arizona.edu/~fan/Home/Welcome.html"] image:/symbols/mail.png[height=18pt, link="mailto:fan@as.arizona.edu"]
+* Vatican City State: Dr. Guy J. Consolmagno, S.J. -> image:/symbols/mail.png[height=18pt, link="mailto:brother_guy@me.com"]
+
+// Qui di seguito un template per aggiungere nuovi nomi:
+// * Caio, Tizio -> image:/symbols/home.png[height=18pt, link="#sito_web_personale"] image:/symbols/mail.png[height=18pt, link="mailto:johndoe@"]

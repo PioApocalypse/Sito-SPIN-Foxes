@@ -1,0 +1,31 @@
+---
+title: "Scientific Committee"
+date: 2023-05-26T10:36:49+02:00
+draft: false
+weight: 3
+summary: "0" # set this line to 0 to leave the summary blank with a 2-line space below the title; comment this line if you want to show a brief summary of the contents of this page
+heroHeading: 'Scientific Committee'
+heroSubHeading: ''
+heroBackground: 'staff/Wilson-Everitt-Ruffini-Damour.jpg'
+y_position: "top" # changes background-position-y: [ top | bottom | middle | 50% | 200px ... ]
+group: yes # to hide a page from the index (/director-and-staff/) comment this line
+thumbnail: 'http://www.icranet.org/images/stories/ICRANet/Administration/scientific_logo_small3.jpg'
+---
+
+.Old Committee Meetings
+[quote]
+link:2022[20^th^ (2022)] - link:/404[19^th^ (2021)] - and so on...
+
+== Members (2022)
+* Albania: Prof. Dr. Mimoza Hafizi -> image:/symbols/home.png[height=18pt, link="https://sites.google.com/a/fshn.edu.al/departamenti-i-fizikees/personelli/profdr-Mimoza-Hafizi"] image:/symbols/mail.png[height=18pt, link="mailto:mimoza.hafizi@fshn.edu.al"]
+* Armenia: Prof. Narek Sahakyan -> image:/symbols/home.png[height=18pt, link="https://www.researchgate.net/profile/Narek_Sahakyan"] image:/symbols/mail.png[height=18pt, link="mailto:narek.sahakyan@icranet.org"]
+* Brazil: Prof. Manuel Malheiro (ad interim) -> image:/symbols/home.png[height=18pt, link="https://bv.fapesp.br/en/pesquisador/87494/manuel-maximo-bastos-malheiro-de-oliveira/"] image:/symbols/mail.png[height=18pt, link="mailto:malheiro@ita.br"]
+* ICRA: Prof. Remo Ruffini -> image:/symbols/home.png[height=18pt, link="http://www.icra.it/People/Ruffini.htm"] image:/symbols/mail.png[height=18pt, link="mailto:ruffini@icra.it"]
+* ICRA: Prof. Carlo Luciano Bianco -> image:/symbols/home.png[height=18pt, link="http://www.icra.it/People/Bianco.htm"] image:/symbols/mail.png[height=18pt, link="mailto:bianco@icra.it"]
+* Italy: Prof. Massimo Della Valle -> image:/symbols/home.png[height=18pt, link="https://www.iau.org/administration/membership/individual/6745/"] image:/symbols/mail.png[height=18pt, link="mailto:mdellava@eso.org"]
+* Stanford University: Prof. John Mester -> image:/symbols/home.png[height=18pt, link="http://kipac.stanford.edu/kipac/people/mester"] image:/symbols/mail.png[height=18pt, link="mailto:jmester@aui.edu"]
+* University of Arizona: Prof. Chris Fryer -> image:/symbols/home.png[height=18pt, link="http://www.lanl.gov/expertise/profiles/view/Christopher-Fryer"] image:/symbols/mail.png[height=18pt, link="mailto:clfreyer@lanl.gov"]
+* Vatican City State: Prof. Gabriele Gionti -> image:/symbols/home.png[height=18pt, link="http://vaticanobservatory.org/about-us/personnel-and-research/73-personnel-and-research/gabriele-gionti-sj/333-gabriele-gionti-sj"] image:/symbols/mail.png[height=18pt, link="mailto:ggionti@me.com"]
+
+// Qui di seguito un template per aggiungere nuovi nomi:
+// * Caio, Tizio -> image:/symbols/home.png[height=18pt, link="#sito_web_personale"] image:/symbols/mail.png[height=18pt, link="mailto:johndoe@"] image:/symbols/doc.png[height=18pt, link="https://www.icranet.org/images/stories/PersonalPages/cv/cv_latorre.pdf", window="_blank"]

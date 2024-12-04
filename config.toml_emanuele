@@ -1,0 +1,63 @@
+# ED: qui c'è l' "header" del menu di config, contenente le informazioni più importanti in assoluto
+baseURL = "https://icranet.org/" # URL base, i link relativi fanno riferimento a questo - in teoria
+languageCode = "it-it" # self-explainatory
+title = "ICRANet Test Site" # titolo che figura nella homepage
+themesDir = "themes" # non toccare: path relativo della cartella contenente i temi
+theme = "hugo-hero-theme" # nome del tema, coincide con il nome della sottocartella di /themes/
+
+[module] # roba da programmatori
+  [module.hugoVersion] # versione di Hugo, non mi interessa
+    extended = true
+    min = "0.92.0"
+
+[params] # la parte più interessante
+  google_analytics_id="" # vediamo più avanti
+
+  [params.logo] # logo di ICRANet, responsive (diverso per mobile e desktop). IMPORTANTE: i logo sono in /themes/hugo-hero-theme/static/images/
+    mobile = "images/logo-prova.svg" # logo mobile che viene mostrato solo su alcuni dispositivi, con width < 576px
+    mobile_height = "54px" # non si ridimensionano i loghi da qui, va modificato /themes/hugo-hero-theme/assets/scss/components/_logo.css
+    mobile_width = "54px"
+    desktop = "images/logo.svg" # logo desktop che compare sul main menu (desktop e smartphone "larghi" oltre i 575px)
+    # desktop_height = "56px"
+    desktop_width = "360px"
+    alt = "ICRANet" # analogo all'attributo alt di <img> (HTML)
+
+  [params.homepage_meta_tags]
+    meta_description = "Welcome to the official website of the International Center for Relativistic Astrophysics' Network."
+    meta_og_title = "ICRANet Website"
+    meta_og_type = "website"
+    meta_og_url = "https://icranet.org"
+    # meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-hero-theme/master/images/tn.png"
+    meta_og_description = "Welcome to the official website of the International Center for Relativistic Astrophysics' Network."
+    # meta_twitter_card = "summary"
+    # meta_twitter_site = "@zerostaticio"
+    # meta_twitter_creator = "@zerostaticio"
+
+[[menu.main]]
+	name = "Services"
+	url = "/services/"
+    weight = 1
+
+[[menu.main]]
+    name = "Work"
+    url = "/seats/"
+    weight = 2
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+[[menu.main]]
+    name = "History"
+    url = "/history/"
+    weight = 3
+
+[[menu.main]]
+    name = "Contact Us"
+    url = "/contact/"
+    weight = 4
+
+[permalinks]
+  post = "/:year/:month/:day/:slug/"
+  pages = "/:filename/"
